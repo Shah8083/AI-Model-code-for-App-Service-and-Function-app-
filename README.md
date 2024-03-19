@@ -1,0 +1,1 @@
+# AI-Model-code-for-App-Service-and-Function-app-
